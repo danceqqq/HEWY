@@ -21,6 +21,7 @@ Road Map Feature
 
 - [ ] Profile User
 - [ ] Chatting Page
+- [ ] Steam low price parser
 - [ ] Store Page
   - [ ] [Taking orders for clothes](https://pages.github.com/) - spec. @Neshumi
   
@@ -28,6 +29,7 @@ Road Map Feature
 
 - [x] Registration & Login panel
    - [x] Blur Background before log
+   - [ ] Country regis
 - [ ] Theme
 - [ ] Chatting text color choose
 - [ ] Emoji
